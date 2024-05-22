@@ -48,7 +48,7 @@ Olá esse é meu README!
 
 <div align="justify">
 <p> 
-- :mortar_board: &nbsp; Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>aluno</code> de Análise e Desenvolvimento de Sistemas, <br />
+- :mortar_board: &nbsp; Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>aluno</code> de Análise e Desenvolvimento de Sistemas<br />
 - :atom: &nbsp; Sou entusiasta da Linguagem Java, veja alguns códigos que fiz <a href="https://github.com/Carlait/Java" target="_blank">aqui</a>.<br />
 - :video_game: &nbsp; Meus hobbies são <a href="https://www.warframe.com/pt-br" target="_blank">Warframe</a>, <a href="https://playvalorant.com/pt-br/" target="_blank">Valorant</a>, academia</a>, livros e rpg.<br />
 - :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
