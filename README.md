@@ -50,7 +50,7 @@ Olá esse é meu README!
 <p> 
 - :mortar_board: &nbsp; Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>aluno</code> de Análise e Desenvolvimento de Sistemas<br />
 - :atom: &nbsp; Sou entusiasta da Linguagem Java, veja alguns códigos que fiz <a href="https://github.com/Carlait/Java" target="_blank">aqui</a>.<br />
-- :video_game: &nbsp; Meus hobbies são <a href="https://www.warframe.com/pt-br" target="_blank">Warframe</a>, Academia</a>, <a href="https://dnd.wizards.com/pt-BR" target="_blank">RPG.<br />
+- :video_game: &nbsp; Meus hobbies são <a href="https://www.warframe.com/pt-br" target="_blank">Warframe</a>, Academia</a>, <a href="https://dnd.wizards.com/pt-BR" target="_blank">RPG</a>.<br />
 - :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:carlaitbr@gmail.com" target="_blank">e-mail</a> pessoal.<br />
 </p>
