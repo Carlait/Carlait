@@ -15,7 +15,7 @@ Olá esse é meu README!
 <tr>
 <td><a href="https://github.com/Carlait" target="_blank"><img src="https://github.com/Carlait/Carlait/blob/main/IMG%20GitHub/GitHub.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="mailto:carlaitbr@gmail.com" target="_blank"><img src="https://github.com/Carlait/Carlait/blob/main/IMG%20GitHub/Email.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="mailto:carlaitbr@gmail.com" target="_blank"><img src="https://github.com/Carlait/Carlait/blob/main/IMG%20GitHub/Gmail.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://wa.me/5531989651027" target="_blank"><img src="https://github.com/Carlait/Carlait/blob/main/IMG%20GitHub/Whats.png?raw=true" width="50px" height="50px"/></a>
 </td>
@@ -25,7 +25,7 @@ Olá esse é meu README!
 </td>
 <!--<td><a href="https://slack.com/app_redirect?channel=UVD9N6VCL"><img src="https://github.com/Carlait/Carlait/blob/main/img/slack.png?raw=true" width="50px" height="50px"/></a>
 </td>-->
-<td><a href="https://discordapp.com/users/852661263300427796" target="_blank"><img src="https://github.com/Carlait/Carlait/blob/main/IMG%20GitHub/Discord.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://discordapp.com/users/852661263300427796" target="_blank"><img src="https://github.com/Carlait/Carlait/blob/main/IMG%20GitHub/Disc.png?raw=true" width="50px" height="50px"/></a>
 </td>
 </tr>
 <tr>
