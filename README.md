@@ -94,7 +94,8 @@ Olá esse é meu README!
 <div>
 <details>
 <summary><img height="20" alt="GIF" src="https://github.com/Carlait/Carlait/blob/main/IMG%20GitHub/Spotify.gif?raw=true"/> Nathan's Spotify Data</summary>
-<img src="https://data-card-for-spotify.herokuapp.com/card?user_id=223osydify2ub5g4aebdjkdri" alt="Data Card for Spotify">
+<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=223osydify2ub5g4aebdjkdri" alt="Data Card for Spotify">
+</a>
 </details>
 </div>
 <div>
