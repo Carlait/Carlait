@@ -90,3 +90,20 @@ Olá esse é meu README!
 </div>
 
 -----
+<div>
+<div>
+<details>
+<summary><img height="20" alt="GIF" src="https://github.com/Carlait/Carlait/blob/main/IMG%20GitHub/Spotify.gif?raw=true"/> Nathan's Spotify Data</summary>
+<img src="https://data-card-for-spotify.herokuapp.com/card?user_id=223osydify2ub5g4aebdjkdri" alt="Data Card for Spotify">
+</details>
+</div>
+<div>
+<div>
+<img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.vercel.app/api/view?uid=223osydify2ub5g4aebdjkdri&cover_image=true&theme=default"/> &nbsp; &nbsp; 
+<img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=223osydify2ub5g4aebdjkdri&count=10"/>
+</div>
+<div>
+</div>
+</div>
+
+-----
