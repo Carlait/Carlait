@@ -65,17 +65,17 @@ Olá esse é meu README!
 &nbsp; 
 <code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/Carlait/Carlait/blob/main/IMG%20GitHub/Java.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://github.com/Carlait/Carlait/blob/main/img/js.png?raw=true"/></a></code>
+<code><a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://github.com/Carlait/Carlait/blob/main/IMG%20GitHub/JavaScript.png?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="https://github.com/Carlait/Carlait/blob/main/IMG%20GitHub/SQL.png?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://www.eclipse.org/downloads/" target="_blank"><img width="32" height="32" src="https://github.com/Carlait/Carlait/blob/main/IMG%20GitHub/Eclipse.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://netbeans.apache.org/" target="_blank"><img width="32" height="32" src="https://github.com/Carlait/Carlait/blob/main/img/netbeans.png?raw=true"/></a></code>
+<code><a href="https://netbeans.apache.org/" target="_blank"><img width="32" height="32" src="https://github.com/Carlait/Carlait/blob/main/IMG%20GitHub/NetBeans.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/Carlait/Carlait/blob/main/img/vs.png?raw=true"/></a></code>
+<code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/Carlait/Carlait/blob/main/IMG%20GitHub/Vscode.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="32" height="32" src="https://github.com/Carlait/Carlait/blob/main/img/intellij.png?raw=true"/></a></code>
+<code><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="32" height="32" src="https://github.com/Carlait/Carlait/blob/main/IMG%20GitHub/InteliJ.png?raw=true"/></a></code>
 &nbsp;
 
 -----
