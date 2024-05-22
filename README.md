@@ -56,8 +56,8 @@ Olá esse é meu README!
 </div>
 </div>
 -----
-<div>
 <img height="20" alt="GIF" src="https://github.com/Carlait/Carlait/blob/main/IMG%20GitHub/Skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
+<div>
 <code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/Carlait/Carlait/blob/main/IMG%20GitHub/Python.png?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/Carlait/Carlait/blob/main/IMG%20GitHub/Java.png?raw=true"/></a></code>
@@ -105,7 +105,7 @@ Olá esse é meu README!
 </div>
 
 -----
-<div>
+</div>
 </table>
 <a href="https://www.linkedin.com/in/nathancarlait/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:carlaitbr@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -118,12 +118,11 @@ Olá esse é meu README!
 <a href="https://www.twitch.tv/carlaitbr" target="_blank"><img alt="twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
 <a href="https://www.hackerrank.com/profile/carlaitbr" target="_blank"><img alt="hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 <a href="https://github.com/Carlait" target="_blank"><img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</div>
+
 -----
-<div>
+</div>
 🏆 GitHub Trophies
 
 <p><img src="https://github-profile-trophy.vercel.app/?username=Carlait">
 </p>
-</div>
 -----
