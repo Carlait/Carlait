@@ -41,7 +41,7 @@ Olá esse é meu README!
 -----
 <div>
 <div>
-<img align="right" alt="GIF" src="https://github.com/Carlait/Carlait/blob/main/IMG%20GitHub/Dev.gif?raw=true" width="340px" height="520px"/>
+<img align="right" alt="GIF" src="https://github.com/Carlait/Carlait/blob/main/IMG%20GitHub/Dev.gif?raw=true" width="800px" height="600px"/>
 </div>
 
 <img height="20" alt="GIF" src="https://github.com/Carlait/Carlait/blob/main/IMG%20GitHub/Star.gif?raw=true"/>Meus interesses pessoais:
