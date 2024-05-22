@@ -41,7 +41,7 @@ Olá esse é meu README!
 -----
 <div>
 <div>
-<img align="right" alt="GIF" src="https://github.com/Carlait/Carlait/blob/main/IMG%20GitHub/Dev.gif?raw=true" width="500px" height="375px"/>
+<img align="right" alt="GIF" src="https://github.com/Carlait/Carlait/blob/main/IMG%20GitHub/Dev.gif?raw=true" width="350px" height="263px"/>
 </div>
 
 <img height="20" alt="GIF" src="https://github.com/Carlait/Carlait/blob/main/IMG%20GitHub/Star.gif?raw=true"/>Meus interesses pessoais:
@@ -50,7 +50,7 @@ Olá esse é meu README!
 <p> 
 - :mortar_board: &nbsp; Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>aluno</code> de Análise e Desenvolvimento de Sistemas<br />
 - :atom: &nbsp; Sou entusiasta da Linguagem Java, veja alguns códigos que fiz <a href="https://github.com/Carlait/Java" target="_blank">aqui</a>.<br />
-- :video_game: &nbsp; Meus hobbies são <a href="https://www.warframe.com/pt-br" target="_blank">Warframe</a>, <a href="https://playvalorant.com/pt-br/" target="_blank">Valorant</a>, academia</a>, livros e rpg.<br />
+- :video_game: &nbsp; Meus hobbies são <a href="https://www.warframe.com/pt-br" target="_blank">Warframe</a>, Academia</a>, <a href="https://dnd.wizards.com/pt-BR" target="_blank">RPG.<br />
 - :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:carlaitbr@gmail.com" target="_blank">e-mail</a> pessoal.<br />
 </p>
