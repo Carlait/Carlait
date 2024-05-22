@@ -56,7 +56,6 @@ Olá esse é meu README!
 </div>
 </div>
 -----
-
 <div>
 
 <img height="20" alt="GIF" src="https://github.com/Carlait/Carlait/blob/main/IMG%20GitHub/Skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
@@ -77,6 +76,7 @@ Olá esse é meu README!
 &nbsp;
 <code><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="32" height="32" src="https://github.com/Carlait/Carlait/blob/main/IMG%20GitHub/InteliJ.png?raw=true"/></a></code>
 &nbsp;
+</div>
 
 -----
 
