@@ -126,10 +126,14 @@ Olá esse é meu README!
 <a href="https://github.com/Carlait" target="_blank"><img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 -----
-</div>
+
+
+<div>
 🏆 GitHub Trophies
 
 <p><img src="https://github-profile-trophy.vercel.app/?username=Carlait">
 </p>
 </div>
+
+
 -----
