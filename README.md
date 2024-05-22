@@ -56,7 +56,7 @@ Olá esse é meu README!
 </div>
 </div>
 -----
-</div>
+<div>
 <img height="20" alt="GIF" src="https://github.com/Carlait/Carlait/blob/main/IMG%20GitHub/Skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
 <code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/Carlait/Carlait/blob/main/IMG%20GitHub/Python.png?raw=true"/></a></code>
 &nbsp; 
