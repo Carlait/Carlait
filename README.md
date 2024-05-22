@@ -2,7 +2,7 @@ Olá esse é meu README!
 -----
 
 <div>
-<img align="center" alt="Header" src="https://github.com/Carlait/Carlait/blob/main/img/header2.png?raw=true"/>
+<img align="center" alt="Header" src="https://github.com/Carlait/Carlait/blob/main/IMG%20GitHub/Header.png?raw=true"/>
 </div>
 
 -----
