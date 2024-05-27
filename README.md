@@ -135,7 +135,7 @@ Olá esse é meu README!
 <div>
 🏆 GitHub Trophies
 
-<p><a href="https://github-profile-trophy.vercel.app/?username=Carlait">
+<p><a href="https://github-profile-trophy.vercel.app/?username=Carlait" target="_blank"><img src=https://github-profile-trophy.vercel.app/?username=Carlait/></a  >
 </p>
 </div>
 
