@@ -87,14 +87,12 @@ Olá esse é meu README!
 
 -----
 
-<img height="20" alt="GIF" src="https://github.com/Carlait/Carlait/blob/main/IMG%20GitHub/Graphic.gif?raw=true"/>GitHub Stats:
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=Carlait&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Carlait&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlait&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div>
-<img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Carlait&theme=github_dark"/>
-<!--- <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Carlait&theme=github_dark"/> -->
-<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Carlait&theme=github_dark"/>
-<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Carlait&theme=github_dark"/>
-</div>
+
 
 -----
 <div>
